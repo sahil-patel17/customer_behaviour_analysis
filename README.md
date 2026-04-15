@@ -8,7 +8,8 @@ This project demonstrates an end-to-end data analytics workflow, starting from r
 
 The goal of this project is to showcase practical data analysis skills and the ability to solve business-related problems using data.
 
-**Dataset**
+**Dataset**  
+
 The dataset used in this project contains real-world structured data.
 It includes multiple features such as customer details, transactions, and other relevant variables.
 The dataset required cleaning due to missing values, inconsistencies, and formatting issues.
