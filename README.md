@@ -10,16 +10,16 @@ The goal of this project is to showcase practical data analysis skills and the a
 
 **Dataset**  
 
-The dataset used in this project contains real-world structured data.
-It includes multiple features such as customer details, transactions, and other relevant variables.
-The dataset required cleaning due to missing values, inconsistencies, and formatting issues.
+The dataset used in this project contains real-world structured data.  
+It includes multiple features such as customer details, transactions, and other relevant variables.  
+The dataset required cleaning due to missing values, inconsistencies, and formatting issues.  
 
 **Tools & Technologies**  
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-MySQL Workbench
-Power BI
-Jupyter Notebook
+Python (Pandas, NumPy, Matplotlib, Seaborn)  
+MySQL Workbench  
+Power BI  
+Jupyter Notebook  
 
 **Project Steps**  
 
