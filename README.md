@@ -25,46 +25,46 @@ Jupyter Notebook
 
 **1. Data Loading**  
 
-Imported dataset using Pandas
+Imported dataset using Pandas  
 Initial inspection using .head(), .info(), .describe()
 
 **2. Data Cleaning**  
 
-Handled missing values
-Removed duplicates
-Fixed data types
-Standardized column names
+Handled missing values  
+Removed duplicates  
+Fixed data types  
+Standardized column names  
 
 **3. Exploratory Data Analysis (EDA)**  
 
-Analyzed distributions and patterns
-Identified correlations between variables
-Created visualizations (bar charts, histograms, heatmaps)
+Analyzed distributions and patterns  
+Identified correlations between variables  
+Created visualizations (bar charts, histograms, heatmaps)  
 
 **4. SQL Analysis (MySQL)**  
 
-Imported cleaned data into MySQL
-Performed queries such as:
-Aggregations (SUM, COUNT, AVG)
-Joins
-Group By analysis
-Business-related queries
+Imported cleaned data into MySQL  
+Performed queries such as:  
+Aggregations (SUM, COUNT, AVG)  
+Joins  
+Group By analysis  
+Business-related queries  
 
 **5. Dashboard Creation (Power BI)**  
 
-Built an interactive dashboard
-Added key metrics and KPIs
-Created visuals like:
-Sales trends
-Category analysis
-Customer insights
+Built an interactive dashboard  
+Added key metrics and KPIs  
+Created visuals like:  
+Sales trends  
+Category analysis  
+Customer insights  
 
 **Results & Insights**  
 
-Identified key drivers of revenue
-Highlighted high-performing and low-performing segments
-Discovered trends that can support business decision-making
-Improved data quality through cleaning process
+Identified key drivers of revenue  
+Highlighted high-performing and low-performing segments  
+Discovered trends that can support business decision-making  
+Improved data quality through cleaning process  
 
 **Conclusion**  
 
