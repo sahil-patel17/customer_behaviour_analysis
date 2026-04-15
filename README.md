@@ -14,7 +14,8 @@ The dataset used in this project contains real-world structured data.
 It includes multiple features such as customer details, transactions, and other relevant variables.
 The dataset required cleaning due to missing values, inconsistencies, and formatting issues.
 
-**Tools & Technologies**
+**Tools & Technologies**  
+
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 MySQL Workbench
 Power BI
