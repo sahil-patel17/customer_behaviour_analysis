@@ -1,7 +1,8 @@
 # Customer Behaviour Analysis
 
-Data Analytics Project
-📌 Overview
+Data Analytics Project\
+
+**Overview**
 
 This project demonstrates an end-to-end data analytics workflow, starting from raw data to actionable insights. It covers data loading, cleaning, exploratory data analysis (EDA), SQL querying, and dashboard creation using Power BI.
 
